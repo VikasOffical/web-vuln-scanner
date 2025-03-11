@@ -9,7 +9,7 @@ Version	Supported
 4.0.x	✅ Yes
 < 4.0	❌ No
 
-# **🚨 Reporting a Vulnerability**
+# **🚨 Reporting a Vulnerability** 
 At Web Vulnerability Scanning and Exploitation Script, security is our top priority. If you discover a vulnerability, please follow these steps to report it responsibly:
 
 ## 1️⃣ Contact me directly at [mejbaur.bahar@gmail.com] with details of the vulnerability.
