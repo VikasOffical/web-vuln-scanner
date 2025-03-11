@@ -16,7 +16,7 @@ Reports potential security weaknesses in web applications.
 
 **Installation**
 
-Prerequisites
+**Prerequisites**
 
 Ensure you have Python 3 installed. Then, install the required dependencies:
 
@@ -24,7 +24,7 @@ pip install requests beautifulsoup4
 
 **Usage**
 
-Run the script:
+**Run the script:**
 
 python scanner.py
 
