@@ -32,7 +32,7 @@ Users provide a URL to analyze. The scanner fetches all forms and input fields.
 ## 🔹 Step 2: Automated Crawling & Form Extraction
 The tool parses the website to identify HTML forms, which are common entry points for cyberattacks.
 
-##🔹 Step 3: Injection Testing
+## 🔹 Step 3: Injection Testing
 
 SQL Injection: Inserts crafted SQL queries into forms to detect vulnerabilities.
 XSS Injection: Injects JavaScript payloads to check if scripts execute.
@@ -66,7 +66,7 @@ Enter the URL to scan: http://example.com
 🔹 Integration with AI – Use AI to predict security threats dynamically.
 
 # **8️⃣ Conclusion ✅**
-Cybersecurity is not optional—it’s a necessity! This tool offers a powerful and automated way to protect web applications against dangerous vulnerabilities. With its user-friendly execution and penetration-testing capabilities, it serves as an essential cybersecurity asset for developers and ethical hackers alike.
+### Cybersecurity is not optional—it’s a necessity! This tool offers a powerful and automated way to protect web applications against dangerous vulnerabilities. With its user-friendly execution and penetration-testing capabilities, it serves as an essential cybersecurity asset for developers and ethical hackers alike.
 
 ## 🔒 Secure your applications before attackers do! 🔥
 
